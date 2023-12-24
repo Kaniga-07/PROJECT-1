@@ -1,0 +1,46 @@
+.review-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .review-ratings {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 16px;
+  }
+  
+  .rating-item {
+    text-align: center;
+  }
+  
+  .review-content {
+    margin-bottom: 16px;
+  }
+  
+  .review-pros-cons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  
+  .pros,
+  .cons {
+    flex: 1;
+    margin-right: 8px;
+  }
+  
+  .review-reasons {
+    margin-bottom: 16px;
+  }
+  

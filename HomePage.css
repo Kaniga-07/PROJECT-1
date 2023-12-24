@@ -1,0 +1,48 @@
+body {
+  overflow: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h6 {
+  color: #2196f3;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+.drawer-content {
+  height: 500px;
+  width: 1500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://assets.anantara.com/image/upload/q_auto,f_auto/media/minor/anantara/images/anantara-peace-haven-tangalle-resort/the-resort/anantara_peace_haven_tangalle_pool_intro_944x510.jpg");
+  font-size: xxx-large;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 120vh;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://assets.anantara.com/image/upload/q_auto,f_auto/media/minor/anantara/images/anantara-peace-haven-tangalle-resort/the-resort/anantara_peace_haven_tangalle_pool_intro_944x510.jpg");
+  background-color:rgb(109, 166, 231);
+  padding: 5px;
+}
+
+.icon-button {
+  margin-left: 10px; 
+}
+
+.login-signup-buttons {
+  display: flex;
+  gap: 5px;
+}
+

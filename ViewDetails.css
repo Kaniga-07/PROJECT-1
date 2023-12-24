@@ -1,0 +1,20 @@
+/* Footer Styles */
+footer {
+  color: black;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
+.social-icons {
+  font-size: 24px;
+}
+
+/* View Details Container Styles */
+.view-details-container {
+  margin-top: 100px;
+  padding: 20px;
+  text-align: center;
+}

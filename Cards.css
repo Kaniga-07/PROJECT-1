@@ -1,0 +1,15 @@
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width:1000px;
+    height:100px;
+    padding-left: 250px;
+    justify-content: space-between;
+    margin: 20px;
+   
+  }
+  
+  .cards-container > * {
+    width: calc(50% - 10px); 
+    margin-bottom: 20px;
+  }

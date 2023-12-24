@@ -1,0 +1,47 @@
+{
+  "hotels": [
+    {
+      "name": "KARPAGAM",
+      "location": "ERODE",
+      "category": "hotel",
+      "id": 1
+    },
+    {
+      "name": "END",
+      "location": "ERODE",
+      "category": "hotel",
+      "id": 2
+    },
+    {
+      "name": "sjk hotel",
+      "location": "",
+      "category": "hotel",
+      "id": 3
+    },
+    {
+      "name": "SJ HOTEL MANAGEMENT",
+      "location": "COIMBATORE",
+      "category": "hotel",
+      "id": 4
+    },
+    {
+      "name": "sjk hotel",
+      "location": "COIMBATORE",
+      "category": "hotel",
+      "id": 5
+    },
+    {
+      "name": "END",
+      "location": "ERODE",
+      "category": "hotel",
+      "id": 6
+    },
+    {
+      "name": "sjk hotel",
+      "location": "COIMBATORE",
+      "category": "hotel",
+      "id": 7
+    }
+  ],
+  "bookings": []
+}

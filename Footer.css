@@ -1,0 +1,36 @@
+.footer {
+    color: black;
+    padding: 20px 0;
+    margin-top: auto; 
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 800px;
+  }
+  
+  .footer-section {
+    max-width: 300px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #222;
+    color: white;
+  }
+  .home-page-container{
+    /* margin-top: 20rem; */
+    height: 20rem;
+  
+  }
